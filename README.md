@@ -37,4 +37,4 @@ Memory Binpacking: 94.62%
 Memory Used: 46.63%
 ```
 
-Please remember that the KUBECONFIG environment variable needs to point to the correct Kubernetes config file.
+Please remember that the `KUBECONFIG` environment variable needs to point to the correct Kubernetes config file.
