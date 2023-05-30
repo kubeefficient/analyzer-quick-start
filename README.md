@@ -17,7 +17,7 @@ This tool offers the following features:
 
 ## Usage
 ```
-curl -fsSL https://raw.githubusercontent.com/kubeefficient/analyzer-quick-start/main/download.sh | bash -s -- --run
+curl -fsSL https://raw.githubusercontent.com/kubeefficient/analyzer-quick-start/main/run.sh | bash -s -- --run
 ```
 
 This command will print the analysis report to stdout.
